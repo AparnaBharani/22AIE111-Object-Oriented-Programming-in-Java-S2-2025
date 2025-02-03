@@ -11,7 +11,7 @@ public class App {
      */
     public String sayWelcome() {
         // TODO: Return "Welcome to Java Programming"
-        return "";
+        return "Welcome to Java Programming";
     }
 
     /**
@@ -23,7 +23,8 @@ public class App {
      */
     public int sum(int a, int b) {
         // TODO: implement the sum logic
-        return 0;
+        
+        return a + b;
     }
 
     public static void main(String[] args) {
